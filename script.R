@@ -1,4 +1,4 @@
-## Name         : Yash Kumar Singh
+## Name         : Scott
 ## Program Title: Reproducible Research Assignment 2 (Temporary)
 ## ------------------------------------------------------------------
 
